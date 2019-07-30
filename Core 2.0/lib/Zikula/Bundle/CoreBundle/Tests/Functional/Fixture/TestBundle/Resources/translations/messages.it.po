@@ -1,0 +1,18 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Zikula Core 2.0 Italian Translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Paolo Morandotti <pmoitaly@yahoo.it>\n"
+"Language-Team: Paolo Morandotti <info@morandotti.it>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"X-Generator: Poedit 2.2.3\n"
+
+msgid "text.apples_remaining"
+msgstr "{0} Non ci sono mele|{1} C'è una mela|]1,Inf] Ci sono %count% mele (messages.en.po)"
+
+msgid "text.foo"
+msgstr "foobar"

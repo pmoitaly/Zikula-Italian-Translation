@@ -1,0 +1,157 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Zikula Core 2.0 Italian translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Paolo Morandotti <pmoitaly@yahoo.it>\n"
+"Language-Team: Paolo Morandotti <info@morandotti.it>\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2.3\n"
+
+msgid "!="
+msgstr "!="
+
+msgid "!in_array"
+msgstr "!in_array"
+
+msgid ","
+msgstr ","
+
+msgid "/full/path/to/file.txt"
+msgstr "/full/path/to/file.txt"
+
+msgid "7bit"
+msgstr "7bit"
+
+msgid "8bit"
+msgstr "8bit"
+
+msgid ":"
+msgstr ":"
+
+msgid ";"
+msgstr ";"
+
+msgid "<"
+msgstr "<"
+
+msgid "<="
+msgstr "<="
+
+msgid "=="
+msgstr "=="
+
+msgid ">"
+msgstr ">"
+
+msgid ">="
+msgstr ">="
+
+msgid "All"
+msgstr "Tutto"
+
+msgid "Block type"
+msgstr "Tipo di blocco"
+
+msgid "Choose a block type"
+msgstr "Scegli un tipo di blocco"
+
+msgid "Cram-MD5"
+msgstr "Cram-MD5"
+
+msgid "Custom filters"
+msgstr "Filtri personalizzati"
+
+msgid "Day"
+msgstr "Giorno"
+
+msgid "English"
+msgstr "Inglese"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTML-formatted message"
+msgstr "Messaggio in formato HTML"
+
+msgid "InnoDB"
+msgstr "InnoDB"
+
+msgid "Locale"
+msgstr "Località"
+
+msgid "Login"
+msgstr "Login"
+
+msgid "Menu Name"
+msgstr "Nome del Menu"
+
+msgid "Month"
+msgstr "Mese"
+
+msgid "Multi-part message"
+msgstr "Messaggio multiparte"
+
+msgid "MyISAM"
+msgstr "MyISAM"
+
+msgid "Options"
+msgstr "Opzioni"
+
+msgid "PHP"
+msgstr "PHP"
+
+msgid "Plain"
+msgstr "Semplice"
+
+msgid "Plain-text message"
+msgstr "Messaggio in testo semplice"
+
+msgid "SHA1"
+msgstr "SHA1"
+
+msgid "SHA256"
+msgstr "SHA256"
+
+msgid "SSL"
+msgstr "SSL"
+
+msgid "TLS"
+msgstr "TLS"
+
+msgid "Text"
+msgstr "Testo"
+
+msgid "Year"
+msgstr "Anno"
+
+msgid "base64"
+msgstr "base64"
+
+msgid "binary"
+msgstr "binario"
+
+msgid "http"
+msgstr "http"
+
+msgid "https"
+msgstr "https"
+
+msgid "https://www.w3schools.com/tags/tag_label.asp"
+msgstr "https://www.w3schools.com/tags/tag_label.asp"
+
+msgid "in_array"
+msgstr "in_array"
+
+msgid "label"
+msgstr "etichetta"
+
+msgid "quoted-printable"
+msgstr "quoted-printable"
+
+msgid "tab"
+msgstr "tab"

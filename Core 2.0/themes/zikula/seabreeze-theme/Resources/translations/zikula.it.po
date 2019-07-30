@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Zikula Seabreeze Theme 2.0 Italian translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Paolo Morandotti <pmoitaly@yahoo.it>\n"
+"Language-Team: Paolo Morandotti <info@morandotti.it>\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2.3\n"
+
+msgid "Blocks"
+msgstr "Blocchi"
+
+msgid "Categories"
+msgstr "Categorie"
+
+msgid "Extensions"
+msgstr "Estensioni"
+
+msgid "Go to the home page"
+msgstr "Vai alla home page"
+
+msgid "Go to your account panel"
+msgstr "Vai al pannello di controllo del tuo account"
+
+msgid "Groups"
+msgstr "Gruppi"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "My Account"
+msgstr "Il mio account"
+
+msgid "Permission rules"
+msgstr "Regole dei permessi"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "Search"
+msgstr "Cerca"
+
+msgid "Search this site"
+msgstr "Cerca in questo sito"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Site search"
+msgstr "Ricerca nel sito"
+
+msgid "Themes"
+msgstr "Temi"
+
+msgid "Users"
+msgstr "Utenti"
+
+msgid "Welcome"
+msgstr "Benvenuto"

@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Zikula Bootstrap Theme Italian translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Paolo Morandotti <pmoitaly@yahoo.it>\n"
+"Language-Team: Paolo Morandotti <info@morandotti.it>\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2.3\n"
+
+msgid "Blocks"
+msgstr "Blocchi"
+
+msgid "Extensions"
+msgstr "Estensioni"
+
+msgid "Groups"
+msgstr "Gruppi"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "Permissions"
+msgstr "Permessi"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Themes"
+msgstr "Temi"
+
+msgid "Users"
+msgstr "Utenti"

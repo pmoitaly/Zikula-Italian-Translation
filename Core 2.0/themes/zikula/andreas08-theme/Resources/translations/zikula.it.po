@@ -1,0 +1,64 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Zikula Andreas08 Theme 2.0 Italian translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Paolo Morandotti <pmoitaly@yahoo.it>\n"
+"Language-Team: Paolo Morandotti <info@morandotti.it>\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2.3\n"
+
+msgid "Blocks"
+msgstr "Blocchi"
+
+msgid "Extensions"
+msgstr "Estensioni"
+
+msgid "Go"
+msgstr "Vai"
+
+msgid "Go to the site's home page"
+msgstr "Vai alla home page del sito"
+
+msgid "Go to your account panel"
+msgstr "Vai al pannello di controllo del tuo account"
+
+msgid "Groups"
+msgstr "Gruppi"
+
+msgid "Home"
+msgstr "Home"
+
+msgid "My Account"
+msgstr "Il mio account"
+
+msgid "Permission rules"
+msgstr "Regole dei permessi"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "Search keywords"
+msgstr "Parole da cercare"
+
+msgid "Search this site"
+msgstr "Cerca nel sito"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Signed in as"
+msgstr "Collegato come"
+
+msgid "Site search"
+msgstr "Ricerca nel sito"
+
+msgid "Themes"
+msgstr "Temi"
+
+msgid "Users"
+msgstr "Utenti"

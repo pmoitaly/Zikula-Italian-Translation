@@ -1,0 +1,91 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Zikula Core 2.0 Italian translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Paolo Morandotti <pmoitaly@yahoo.it>\n"
+"Language-Team: Paolo Morandotti <info@morandotti.it>\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2.3\n"
+
+msgid "Add connection"
+msgstr "Aggiungi connessione"
+
+msgid "Add node"
+msgstr "Aggiungi nodo"
+
+msgid "Create"
+msgstr "Crea"
+
+msgid "Do you really want to delete this entry?"
+msgstr "Vuoi davvero eliminare questa voce?"
+
+msgid "Edit state"
+msgstr "Modifica lo stato"
+
+msgid "Edit transition"
+msgstr "Modifica la transizione"
+
+msgid "It contains %count% direct child.|It contains %count% direct children."
+msgstr "Contiene %count% figlio diretto. Contiene %count% figli diretti."
+
+msgid "No"
+msgstr "No"
+
+msgid "No results found!"
+msgstr "Nessun risultato trovato."
+
+msgid "Normal"
+msgstr "Normale"
+
+msgid "Password can not match the username, choose a different password."
+msgstr "La password non può corrispondere al nome utente; scegli una password diversa."
+
+msgid "Please choose what to do with this item's child.|Please choose what to do with this item's children."
+msgstr "Scegli che cosa fare con il figlio di questo elemento. Scegli che cosa fare con i figli di questo elemento."
+
+msgid "Remove element"
+msgstr "Rimuovi l'elemento"
+
+msgid "States may only lead to transitions."
+msgstr "Gli stati possono portare solo a transizioni."
+
+msgid "Strong"
+msgstr "Forte"
+
+msgid "Success"
+msgstr "Riuscito"
+
+msgid "The minimum length for user passwords is %amount% characters."
+msgstr "La lunghezza minima per la password utente è %amount% caratteri."
+
+msgid "This value must not contain spaces."
+msgstr "Questo valore non deve contenere spazi."
+
+msgid "Transitions may only lead to one single state."
+msgstr "Le transizioni possono portare a un solo stato."
+
+msgid "Transitions may only lead to states."
+msgstr "Le transizioni possono portare solo agli stati."
+
+msgid "Update"
+msgstr "Aggiorna"
+
+msgid "Very Strong"
+msgstr "Molto forte"
+
+msgid "Weak"
+msgstr "Debole"
+
+msgid "Yes"
+msgstr "Sì"
+
+msgid "array"
+msgstr "array"
+
+msgid "string"
+msgstr "stringa"

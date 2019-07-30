@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Zikula Bootstrap Theme 2.0 Italian translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Paolo Morandotti <pmoitaly@yahoo.it>\n"
+"Language-Team: Paolo Morandotti <info@morandotti.it>\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2.3\n"
+
+msgid "I have forgotten my account information (for example, my user name)."
+msgstr "Ho dimenticato le informazioni sul mio account (per esempio, il mio nome utente)."
+
+msgid "I have forgotten my password."
+msgstr "Ho dimenticato la mia password."
+
+msgid "I would like to create a new account."
+msgstr "Vorrei creare un nuovo account."
+
+msgid "I would like to login."
+msgstr "Vorrei fare il login."
+
+msgid "Log out"
+msgstr "Logout"
+
+msgid "My Account"
+msgstr "Il mio Account"
+
+msgid "My account"
+msgstr "Il mio account"
+
+msgid "Please select one of the following:"
+msgstr "Seleziona una delle opzioni seguenti:"
+
+msgid "Powered by"
+msgstr "Powered by"
+
+msgid "Signed in as"
+msgstr "Collegato come"
+
+msgid "Toggle Dropdown"
+msgstr "Attiva / disattiva l'elenco a discesa"

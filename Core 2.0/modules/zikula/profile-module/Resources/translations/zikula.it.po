@@ -1,0 +1,274 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Zikula Profile Module 2.0 Italian Transaction\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Paolo Morandotti <pmoitaly@yahoo.it>\n"
+"Language-Team: Paolo Morandotti <info@morandotti.it>\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2.3\n"
+
+msgid "%s's site"
+msgstr "Sito di %s'"
+
+msgid "Account settings"
+msgstr "Impostazioni dell'account"
+
+msgid "Activate"
+msgstr "Attiva"
+
+msgid "Active"
+msgstr "Attivo"
+
+msgid "Admins and account owner only"
+msgstr "Solo amministratori e proprietario dell'account"
+
+msgid "Admins only"
+msgstr "Solo amministratori"
+
+msgid "Avatar"
+msgstr "Avatar"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "Change email address"
+msgstr "Cambia l'indirizzo email"
+
+msgid "Change password"
+msgstr "Cambia la password"
+
+msgid "Checkbox"
+msgstr "Checkbox"
+
+msgid "Content of your custom block"
+msgstr "Contenuto del tuo blocco personalizzato"
+
+msgid "Create new field"
+msgstr "Crea un nuovo campo"
+
+msgid "Custom block content for %s"
+msgstr "Contenuto del blocco personalizzato di %s"
+
+msgid "Date"
+msgstr "Data"
+
+msgid "Deactivate"
+msgstr "Disattiva"
+
+msgid "Delete"
+msgstr "Elimina"
+
+msgid "Display the user's registration date"
+msgstr "Mostra la data di registrazione dell'utente"
+
+msgid "Done! Created new item."
+msgstr "Il nuovo elemento è stato creato."
+
+msgid "Done! Module configuration updated."
+msgstr "La configurazione del modulo è stata aggiornata."
+
+msgid "Done! Saved custom block."
+msgstr "Il blocco personalizzato è stato salvato."
+
+msgid "Done! Saved your changes."
+msgstr "Le modifiche sono state salvate."
+
+msgid "Done! The field has been successfully deleted."
+msgstr "Il campo è stato cancellato correttamente."
+
+msgid "Done! The profile has been successfully updated."
+msgstr "Il profilo è stato aggiornato correttamente."
+
+msgid "Down"
+msgstr "Giù"
+
+msgid "Dropdown list"
+msgstr "Lita a discesa"
+
+msgid "Edit"
+msgstr "Modifica"
+
+msgid "Edit profile"
+msgstr "Modifica il profilo"
+
+msgid "Enable your personal custom block"
+msgstr "Abilita il tuo blocco personalizzato"
+
+msgid "Error! A required profile item [%s] is missing."
+msgstr "Errore: un elemento obbligatorio del profilo [%s] è mancante."
+
+msgid "Error! Could not find profile page [%s]."
+msgstr "Errore: non trovo la pagine del profilo [%s]."
+
+msgid "Error! Could not find the specified module (%s)."
+msgstr "Errore: non ho trovato il modulo specificato (%s)."
+
+msgid "Error! Could not find this user."
+msgstr "Errore: non trovo questo utente."
+
+msgid "Error! Could not load data."
+msgstr "Errore: il caricamento dei dati non è riuscito."
+
+msgid "Error! Could not load items."
+msgstr "Errore: il caricamento degli elementi non è riuscito."
+
+msgid "Error! Could not load the section."
+msgstr "Errore: il caricamento della sezione non è riuscito."
+
+msgid "Error! Could not save your changes."
+msgstr "Errore: impossibile salvare le modifiche."
+
+msgid "Error! Invalid '%s' passed."
+msgstr "Errore: ricevuto '%s' non valido."
+
+msgid "Error! No such item found."
+msgstr "Errore: l'elemento non è stato trovato."
+
+msgid "Error! The item must have a label. An example of a recommended label is: '_MYDUDLABEL'."
+msgstr "Errore: L'elemento deve avere un'etichetta. Un esempio di un'etichetta raccomandabile è '_MYDUDLABEL'."
+
+msgid "Error! The item must have an attribute name. An example of an acceptable name is: 'mydudfield'."
+msgstr "Errore: L'elemento deve avere un nome di attributo. Un esempio di un nome accettabile è 'mydudfield'."
+
+msgid "Error! There is already a label with this name."
+msgstr "Errore: un'etichetta con questo nome esiste già."
+
+msgid "Error! There is already an attribute with this name."
+msgstr "Errore: un attributo con questo nome esiste già."
+
+msgid "Error! There is already an item with the attribute name '%s'."
+msgstr "Errore: un elemento con il nome di attributo '%s esiste già'."
+
+msgid "Error! There is already an item with the label '%s'."
+msgstr "Errore: un elemento con l'etichetta '%s esiste già'."
+
+msgid "Error! You cannot access form functions directly."
+msgstr "Errore: non puoi accedere direttamente alle funzioni del modulo."
+
+msgid "Error! You cannot deactivate this item."
+msgstr "Errore: non puoi disattivare questo elemento."
+
+msgid "Error! You cannot decrease the weight of this account property."
+msgstr "Errore: non puoi ridurre il peso di questa proprietà dell'account."
+
+msgid "Error! You cannot delete this item."
+msgstr "Errore: non puoi eliminare questo elemento."
+
+msgid "Everyone"
+msgstr "Tutti"
+
+msgid "Fields"
+msgstr "Campi"
+
+msgid "Filter unverified users from 'Registered users list'"
+msgstr "Filtra gli utenti non verificati dalla 'Lista utenti registrati'"
+
+msgid "Go to the Avatar manager"
+msgstr "Vai al gestore degli Avatar"
+
+msgid "Help"
+msgstr "Aiuto"
+
+msgid "Inactive"
+msgstr "Inattivo"
+
+msgid "Invalid %s."
+msgstr "%s non valido."
+
+msgid "Last %s registered users"
+msgstr "Ultimi %s utenti registrati"
+
+msgid "Messages"
+msgstr "Messaggi"
+
+msgid "Missing dynamic data array in call to %s"
+msgstr "Manca un dynamic data array nella chiamata %s"
+
+msgid "Multiple checkbox set"
+msgstr "Set di caselle multiple"
+
+msgid "No"
+msgstr "No"
+
+msgid "Normal"
+msgstr "Normale"
+
+msgid "Not editable field"
+msgstr "Campo non modificabile"
+
+msgid "Operation cancelled."
+msgstr "Operazione annullata."
+
+msgid "Personal custom block"
+msgstr "Blocco personalizzato"
+
+msgid "Profile"
+msgstr "Profilo"
+
+msgid "Query failed."
+msgstr "Query non riuscita."
+
+msgid "Radio button"
+msgstr "Radio button"
+
+msgid "Registered users"
+msgstr "Utenti registrati"
+
+msgid "Registered users only"
+msgstr "Solo utenti registrati"
+
+msgid "Required"
+msgstr "Obbligatorio"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Text area"
+msgstr "Text area"
+
+msgid "Text box"
+msgstr "Text box"
+
+msgid "The '%s' field is required."
+msgstr "Il campo '%s' è obbligatorio."
+
+msgid "There was a problem with one of the personal information fields.|There were problems with %d personal information fields."
+msgstr "Si è verificato un problema con uno dei campi di informazioni personali. | Si sono verificati problemi con %d campi di informazioni personali."
+
+msgid "Third-party"
+msgstr "Terze parti"
+
+msgid "Third-party (not editable)"
+msgstr "Terze parti (non modificabile)"
+
+msgid "Up"
+msgstr "Su"
+
+msgid "User Information"
+msgstr "Informazioni sull'utente"
+
+msgid "Users administration"
+msgstr "Amministrazione degli utenti"
+
+msgid "Users online"
+msgstr "Utenti online"
+
+msgid "Users per page in 'Recent registrations' page"
+msgstr "Utenti per pagina nella pagina \"Registrazioni recenti\""
+
+msgid "Users per page in 'Registered users list'"
+msgstr "Utenti per pagina in \"Elenco utenti registrati\""
+
+msgid "Users per page in 'Users currently on-line' page"
+msgstr "Utenti per pagina nella pagina \"Utenti online ora\""
+
+msgid "Yes"
+msgstr "Sì"

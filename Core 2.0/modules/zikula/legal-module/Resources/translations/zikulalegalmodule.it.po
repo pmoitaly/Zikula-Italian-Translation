@@ -1,0 +1,214 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Zikula Legal Module 2.0 Italian translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Paolo Morandotti <pmoitaly@yahoo.it>\n"
+"Language-Team: Paolo Morandotti <info@morandotti.it>\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2.3\n"
+
+msgid "%s accepted."
+msgstr "%s accettato."
+
+msgid "%s not accepted."
+msgstr "%s non accettato."
+
+msgid "(POLICY NOT FOUND!)"
+msgstr "(NORME NON TROVATE!)"
+
+msgid "<strong>Important Usage Note</strong>: The provided legal statements are samples only. They need to be adapted to your specific needs and locales. You will find the content of the statements in files in the \"/Resources/views/en\" directory. These templates can be overridden by theme templates, or by global templates you would create in the \"config/templates/ZikulaLegalModule/\" directory (in the appropriate sub-directory for the language you are writing for)."
+msgstr "<strong> Nota importante sull'uso</ strong>: le dichiarazioni legali fornite sono solo esempi. Devono essere adattate alle tue esigenze e alla tua lingua. Troverai il contenuto delle istruzioni nei file nella cartella \"/Resources/views /it\". Questi modelli possono essere sostituiti da modelli di temi o da modelli globali che dovresti creare nella directory \"config/templates/ZikulaLegalModule/\" (nella sottocartella associata alla lingua in cui stai scrivendo)."
+
+msgid "A user account or registration does not exist for the specified uid."
+msgstr "Non esiste un account utente o registrazione per l'uid specificato."
+
+msgid "Accepted."
+msgstr "Accettato."
+
+msgid "Accessibility statement"
+msgstr "Dichiarazione di accessibilità"
+
+msgid "Accessibility statement for %s"
+msgstr "Dichiarazione di accessibilità per %s"
+
+msgid "All users"
+msgstr "Tutti gli utenti"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "Cancel and logout"
+msgstr "Annulla e scollegati"
+
+msgid "Cancellation right policy"
+msgstr "Norme sui diritti della cancellazione"
+
+msgid "Cancellation right policy for %s"
+msgstr "Norme sui diritti della cancellazione per %s"
+
+msgid "Check this box to indicate your acceptance of this site's policies."
+msgstr "Seleziona questa casella per indicare che accetti le norme di questo sito."
+
+msgid "Close"
+msgstr "Chiudi"
+
+msgid "Compliance"
+msgstr "Conformità"
+
+msgid "Confirmed minimum age requirement (%s years of age) met."
+msgstr "Conferma che superi l'età minima richiesta (%s anni) per l'iscrizione al sito."
+
+msgid "Custom urls"
+msgstr "URL personali"
+
+msgid "Done! Module configuration updated."
+msgstr "La configurazione del modulo è stata aggiornata."
+
+msgid "Enable cookie warning for EU compliance"
+msgstr "Abilita l'avviso sui cookie per la conformità alle norme UE"
+
+msgid "Enter a positive integer, or 0 for no age check."
+msgstr "Immetti un numero intero positivo, o 0 per togliere il controllo dell'età."
+
+msgid "Enter your text by overriding the <em>%s</em> template file."
+msgstr "Inserisci il tuo testo sostituendo il template <em>% s </ em>."
+
+msgid "Further settings"
+msgstr "Altre impostazioni"
+
+msgid "General terms and conditions of trade"
+msgstr "Condizioni generali di vendita"
+
+msgid "If you leave this page without successfully accepting the policies, then you will not be logged in."
+msgstr "Se lasci questa pagina senza accettare le norme, non potrai collegarti come utente registrato."
+
+msgid "In order to log in you must accept this site's policies. If you have accepted the site's policies in the past, then they have been updated and we ask that you review the changes."
+msgstr "Per accedere è necessario accettare le norme di questo sito. Se hai accettato le norme del sito in passato, è probabile che nel frattempo siano state aggiornate e ti chiediamo di rivedere e accettare le modifiche."
+
+msgid "In order to log in, you must accept this site's policies."
+msgstr "Per accedere è necessario accettare le norme di questo sito."
+
+msgid "In order to register for a new account, you must accept this site's policies."
+msgstr "Per registrare un nuovo account, è necessario accettare le norme di questo sito."
+
+msgid "Leave blank to leave users unaffected."
+msgstr "Lascia vuoto per lasciare gli utenti inalterati ."
+
+msgid "Legal Docs"
+msgstr "Documenti legali"
+
+msgid "Legal document types"
+msgstr "Tipi di documenti legali"
+
+msgid "Legal notice"
+msgstr "Nota legale"
+
+msgid "Legal notice for %s"
+msgstr "Nota legale per %s"
+
+msgid "Legal settings"
+msgstr "Impostazioni sulle norme"
+
+msgid "Minimum age"
+msgstr "Età minima"
+
+msgid "Minimum age permitted to register"
+msgstr "Età minima consentita per la registrazione"
+
+msgid "Minimum age requirement not confirmed."
+msgstr "L'età minima richiesta non è stata confermata."
+
+msgid "No"
+msgstr "No"
+
+msgid "Not accepted."
+msgstr "Non accettato."
+
+msgid "Notice: This setting controls the EU cookie warning which is injected into the view and requires user assent."
+msgstr "Nota: questa impostazione controlla l'avviso cookie UE che viene inserito a video e richiede l'assenso dell'utente."
+
+msgid "Notice: This setting resets the acceptance of the site policies for all users in this group. Next time they want to log-in, they will have to acknowledge their acceptance of them again, and will not be able to log-in if they do not. This action does not affect the main administrator account. You can perform the same operation for individual users by visiting the Users manager in the site admin panel."
+msgstr "Avviso: questa impostazione azzera l'accettazione delle norme del sito per tutti gli utenti di questo gruppo. La prossima volta che effettueranno l'accesso, dovranno accettarle nuovamente e non potranno effettuare il login se non le avranno accettate. Questa azione non ha alcun effetto sull'account dell'amministratore principale. È possibile eseguire la stessa operazione per i singoli utenti attraverso il gestore degli utenti nel pannello di amministrazione del sito."
+
+msgid "Operation cancelled."
+msgstr "Operazione annullata."
+
+msgid "Please click on the following links to read the corresponding documents."
+msgstr "Fai clic sui seguenti collegamenti per leggere i documenti corrispondenti."
+
+msgid "Policies"
+msgstr "Norme"
+
+msgid "Policy not accepted."
+msgstr "Norme rifiutate."
+
+msgid "Policy not available"
+msgstr "Norme non disponibili"
+
+msgid "Privacy policy"
+msgstr "Norme sulla privacy"
+
+msgid "Privacy policy for %s"
+msgstr "Norme sulla privacy per %s"
+
+msgid "Reset user group's acceptance of site policies"
+msgstr "Azzera l'accettazione delle politiche del sito da parte del gruppo di utenti"
+
+msgid "Save"
+msgstr "Salva"
+
+msgid "Save and continue logging in"
+msgstr "Salva e prosegui nel login"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Site policies"
+msgstr "Norme del sito"
+
+msgid "Sorry! You changed your authentication information, and one or more items displayed on the login screen may not have been applicable for your account. Please try logging in again."
+msgstr "Hai cambiato le tue informazioni di autenticazione e uno o più elementi visualizzati nella schermata di accesso potrebbero non essere applicabili al tuo account. Per favore, prova ad accedere di nuovo."
+
+msgid "Terms of use"
+msgstr "Condizioni d'uso"
+
+msgid "Terms of use for %s"
+msgstr "Condizioni d'uso per %s"
+
+msgid "The UID is invalid."
+msgstr "L'UID non è valido."
+
+msgid "The following fields allow to reference any custom url. As soon as an url is given it will be used instead of the normal Legal templates. So you can now use any page you want for displaying and managing your legal data."
+msgstr "I seguenti campi consentono di fare riferimento a qualsiasi URL personalizzato. Non appena viene fornito un url, verrà utilizzato al posto dei modelli forniti con questo modulo. In questo modo puoi utilizzare qualsiasi pagina che desideri per visualizzare e gestire i tuoi dati legali."
+
+msgid "The selected policy is not available."
+msgstr "La norme selezionate non sono disponibile."
+
+msgid "The user is invalid."
+msgstr "L'utente non è valido"
+
+msgid "The user record or the UID is invalid or the UID does not match."
+msgstr "Il record dell'utente o l'UID non è valido, o l'UID non corrisponde."
+
+msgid "Trade conditions"
+msgstr "Condizioni commerciali"
+
+msgid "Trade conditions for %s"
+msgstr "Condizioni commerciali per %s"
+
+msgid "Yes"
+msgstr "Sì"
+
+msgid "You must accept this site's policies in order to proceed."
+msgstr "Devi accettare le politiche di questo sito per poter procedere."
+
+msgid "You need to be %s years of age or older, in accordance with our minimum age requirement."
+msgstr "Devi avere almeno % s, in conformità al nostro requisito di età minima."
+
+msgid "Your log-in request was not completed. You must review and confirm your acceptance of one or more site policies prior to logging in."
+msgstr "La tua richiesta di accesso non è stata completata. È necessario verificare e confermare l'accettazione di una o piùnorme del sito prima di accedere."

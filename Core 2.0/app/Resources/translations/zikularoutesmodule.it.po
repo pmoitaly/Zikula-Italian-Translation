@@ -1,0 +1,43 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: Zikula Core 2.0 Italian Translation\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Paolo Morandotti <pmoitaly@yahoo.it>\n"
+"Language-Team: Paolo Morandotti <info@morandotti.it>\n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2.3\n"
+
+msgid "Back to overview"
+msgstr "Torna alla panoramica"
+
+msgid "Delete"
+msgstr "Elimina"
+
+msgid "Delete this route"
+msgstr "Elimina questo percorso"
+
+msgid "Details"
+msgstr "Dettagli"
+
+msgid "Edit"
+msgstr "Modifica"
+
+msgid "Edit this route"
+msgstr "Modifica questo percorso"
+
+msgid "Open preview page"
+msgstr "Apri l'anteprima"
+
+msgid "Preview"
+msgstr "Anteprima"
+
+msgid "Reuse"
+msgstr "Riuse"
+
+msgid "Reuse for new route"
+msgstr "Riuse per un nuovo percorso"
