@@ -1,0 +1,1334 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: it\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "%title%"
+msgstr "%title%"
+
+msgid "10"
+msgstr "10"
+
+msgid "100"
+msgstr "100"
+
+msgid "15"
+msgstr "15"
+
+msgid "20"
+msgstr "20"
+
+msgid "3 newest messages"
+msgstr "3 articoli più recenti"
+
+msgid "3 random messages"
+msgstr "3 articoli casuali"
+
+msgid "30"
+msgstr "30"
+
+msgid "5"
+msgstr "5"
+
+msgid "50"
+msgstr "50"
+
+msgid "A direct feed showing the list of messages"
+msgstr "Un feed diretto che mostra l'elenco delle notizie"
+
+msgid "A list of the three newest messages."
+msgstr "Un elenco dei tre articoli più recenti."
+
+msgid "A list of three random messages."
+msgstr "Un elenco di tre articoli a caso."
+
+msgid "A user changed his message \"%entity%\"."
+msgstr "Un utente ha modificato il suo articolo \"%entity%\"."
+
+msgid "Absolute url to the message"
+msgstr "URL assoluta all'articolo"
+
+msgid "Actions"
+msgstr "Azioni"
+
+msgid "Add another image"
+msgstr "Aggiungi un'altra pagina"
+
+msgid "Additional remarks"
+msgstr "Note addizionali"
+
+msgid "Additional remarks:"
+msgstr "Note addizionali:"
+
+msgid "After the succesful update you have to enter maximum size for file uploads!"
+msgstr "A seguito dell'aggiornamento riuscito, hai raggiunto il numero massimo di file caricabili!"
+
+msgid "All"
+msgstr "Tutto"
+
+msgid "All except approved"
+msgstr "Tutto tranne approvati"
+
+msgid "All except archived"
+msgstr "Tutto tranne archiviati"
+
+msgid "All except suspended"
+msgstr "Tutto tranne sospesi"
+
+msgid "All except waiting"
+msgstr "Tutto eccetto in attesa"
+
+msgid "Allow comments"
+msgstr "Permetti i commenti"
+
+msgid "Allow uploading article pictures"
+msgstr "Permetti di caricare immagini per l'articolo"
+
+msgid "Allowed file extensions"
+msgstr "Estensioni dei file consentite"
+
+msgid "Allowed file size"
+msgstr "Dimensione del file consentita"
+
+msgid "Amount"
+msgstr "Quantità"
+
+msgid "Amount of more articles in category"
+msgstr "Quantità di articoli nella categoria"
+
+msgid "Amount of views"
+msgstr "Numero di visite"
+
+msgid "An error occured during creation of the .htaccess file in directory \"%path%\"."
+msgstr "Si è verificato un errore durante la creazione del file .htaccess  nella cartella \"%path%\"."
+
+msgid "Approve"
+msgstr "Approva"
+
+msgid "Approved"
+msgstr "Approvato"
+
+msgid "Approver"
+msgstr "Revisore"
+
+msgid "Archive"
+msgstr "Archivia"
+
+msgid "Archived"
+msgstr "Archiviato"
+
+msgid "ArticleDateTime"
+msgstr "Data e ora dell'articolo"
+
+msgid "ArticleID"
+msgstr "ID dell'articolo"
+
+msgid "ArticleStartDate"
+msgstr "Data di pubblicazione dell'articolo"
+
+msgid "ArticleWeight"
+msgstr "Dimensione dell'articolo"
+
+msgid "Ascending"
+msgstr "Crescente"
+
+msgid "Attributes"
+msgstr "Attributi"
+
+msgid "Author"
+msgstr "Autore"
+
+msgid "Back to overview"
+msgstr "Torna alla descrizione"
+
+msgid "Back to paginated view"
+msgstr "Torna all'elenco"
+
+msgid "Backend"
+msgstr "Backend"
+
+msgid "Bytes"
+msgstr "Byte"
+
+msgid "Cancel"
+msgstr "Annulla"
+
+msgid "Categories"
+msgstr "Categorie"
+
+msgid "Category"
+msgstr "Categoria"
+
+msgid "Category settings"
+msgstr "Impostazioni della categoria"
+
+msgid "Change selection"
+msgstr "Cambia la selezione"
+
+msgid "Choose action"
+msgstr "Scegli un'azione"
+
+msgid "Choose an option"
+msgstr "Scegli un'opzione"
+
+msgid "Choose the default message sorting."
+msgstr "Scegli l'ordine predefinito degli articoli."
+
+msgid "Choose the enabled finder types."
+msgstr "Scegli i tipi di ricerca abilitati."
+
+msgid "Choose the image float on display page."
+msgstr "Imposta l'orientamento dell'immagine nella pagina dell'articolo."
+
+msgid "Choose the image float on view page."
+msgstr "Imposta l'orientamento dell'immagine nell'elenco."
+
+msgid "Choose the message language of the message"
+msgstr "Scegli la lingua dell'articolo"
+
+msgid "Choose the moderation group for messages"
+msgstr "Scegli il gruppo di moderazione per l'articolo"
+
+msgid "Choose the thumbnail mode."
+msgstr "Scegli la modalità delle miniature."
+
+msgid "Communication"
+msgstr "Comunicazione"
+
+msgid "Configuration"
+msgstr "Configurazione"
+
+msgid "Confirmation prompt"
+msgstr "Richiesta di conferma"
+
+msgid "Content has been approved and is available online."
+msgstr "Il contenuto è stato approvato ed è stato pubblicato."
+
+msgid "Content has been approved, but is temporarily offline."
+msgstr "Il contenuto è stato approvato ma non è ancora stato pubblicato."
+
+msgid "Content has been deleted"
+msgstr "Il contenuto è stato cancellato"
+
+msgid "Content has been submitted and waits for approval."
+msgstr "Il contenuto è stato ricevuto ed è in attesa di approvazione."
+
+msgid "Content has been updated"
+msgstr "Il contenuto è stato aggiornato"
+
+msgid "Content has reached the end and became archived."
+msgstr "Il contenuto ha raggiunto la data di fine pubblicazione ed è stato archiviato."
+
+msgid "Could not inform other persons about your amendments, because the Mailer module is not available - please contact an administrator about that!"
+msgstr "Non è stato possibile informare altre persone perché il modulo Mailer non è disponibile. Si prega di informare l'amministratore!"
+
+msgid "Create message"
+msgstr "Scrivi un articolo"
+
+msgid "Created by %user"
+msgstr "Scritto da %user"
+
+msgid "Created by %user on %date"
+msgstr "Scritto da %user il %date"
+
+msgid "Created on %date"
+msgstr "Scritto il %date"
+
+msgid "Creation"
+msgstr "Creazione"
+
+msgid "Creation and update"
+msgstr "Creazione e aggiornamento"
+
+msgid "Creation date"
+msgstr "Data di creazione"
+
+msgid "Creator"
+msgstr "Autore"
+
+msgid "Current file"
+msgstr "File attuale"
+
+msgid "Custom template"
+msgstr "Template personalizzato"
+
+msgid "Default"
+msgstr "Predefinito"
+
+msgid "Default message sorting"
+msgstr "Ordine predefinito delle notizie"
+
+msgid "Sorting direction"
+msgstr "Direzione dell'ordinamento"
+
+msgid "Delete"
+msgstr "Elimina"
+
+msgid "Delete content permanently."
+msgstr "Elimina definitivamente il contenuto."
+
+msgid "Delete existing file"
+msgstr "Elimina il file esistente"
+
+msgid "Delete message"
+msgstr "Elimina l'articolo"
+
+msgid "Delete this file ?"
+msgstr "Eliminare questo file?"
+
+msgid "Delete this message"
+msgstr "Elimina questo messaggio"
+
+msgid "Deleted"
+msgstr "Eliminato"
+
+msgid "Descending"
+msgstr "Decrescente"
+
+msgid "Details"
+msgstr "Dettagli"
+
+msgid "Display a PDF link for the articles in the index page"
+msgstr "Mostra un collegamento PDF per gli articoli nell'indice"
+
+msgid "Display list of MUNewsModule objects."
+msgstr "Mostra un elenco di oggetti del modulo News."
+
+msgid "Display on index"
+msgstr "Mostra nell'indice"
+
+msgid "Display or link a single MUNewsModule object."
+msgstr "Mostra o collega a un oggetto del modulo News."
+
+msgid "Display pdf link"
+msgstr "Mostra il link al PDF"
+
+msgid "Display setting"
+msgstr "Impostazioni di visuailizzazione"
+
+msgid "Do you really want to delete this message: \"%name%\" ?"
+msgstr "Vuoi cancellare davvero l'articolo \"%name%\"?"
+
+msgid "Doctrine Exception"
+msgstr "Errore di Doctrine"
+
+msgid "Done! Item created."
+msgstr "L'elemento è stato creato."
+
+msgid "Done! Item deleted."
+msgstr "L'elemento è stato eliminato."
+
+msgid "Done! Item updated."
+msgstr "L'elemento è stato aggiornato."
+
+msgid "Done! Message created."
+msgstr "L'articolo è stato creato."
+
+msgid "Done! Message deleted."
+msgstr "L'articolo è stato eliminato."
+
+msgid "Done! Message updated."
+msgstr "L'articolo è stato aggiornato."
+
+msgid "Done! Module configuration updated."
+msgstr "La configurazione del modulo è stata aggiornata."
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Dummy message choice"
+msgstr "Messaggio fittizio da parte di un generatore automatico"
+
+msgid "Dummy message text"
+msgstr "Messaggio fittizio"
+
+msgid "Edit"
+msgstr "Modifica"
+
+msgid "Edit message"
+msgstr "Modifica l'articolo"
+
+msgid "Edit messages workflow"
+msgstr "Modifica il workflow dell'articolo"
+
+msgid "Edit the message:"
+msgstr "Modifica l'articolo:"
+
+msgid "Edit this message"
+msgstr "Modifica questo articolo"
+
+msgid "Edit workflow for messages"
+msgstr "Modifica il workflow dell'articolo"
+
+msgid "Edit your message:"
+msgstr "Modifica il tuo articolo:"
+
+msgid "Enable attribution"
+msgstr "Abilita l'attribuzione"
+
+msgid "Enable categorization"
+msgstr "Abilita la categorizzazione"
+
+msgid "Enable more messages in category"
+msgstr "Abilita notizie addizionali nella categoria"
+
+msgid "Enable multi language"
+msgstr "Abilita le funzioni multilingua"
+
+msgid "Enable picture upload"
+msgstr "Abilita il caricamento delle immagini"
+
+msgid "Enable shrinking for message image upload 1"
+msgstr "Abilita la riduzione della prima immagine caricata"
+
+msgid "Enable shrinking for message image upload 2"
+msgstr "Abilita la riduzione della seconda immagine caricata"
+
+msgid "Enable shrinking for message image upload 3"
+msgstr "Abilita la riduzione della terza immagine caricata"
+
+msgid "Enable shrinking for message image upload 4"
+msgstr "Abilita la riduzione della quarta immagine caricata"
+
+msgid "Enable this option to insert images"
+msgstr "Abilita il caricamento delle immagini"
+
+msgid "Enabled finder types"
+msgstr "Abilita i tipi di ricerca"
+
+msgid "End date"
+msgstr "Data finale"
+
+msgid "Enter any additions about your changes"
+msgstr "Inserisci qualche notizia sui cambiamenti"
+
+msgid "Enter any additions about your content"
+msgstr "Inserisci qualche notizia sul contenuto"
+
+msgid "Enter the amount of more articles in category."
+msgstr "Inserisci il numero di articoli nella categoria."
+
+msgid "Enter the amount of views of the message."
+msgstr "Inserisci il numero di letture dell'articolo."
+
+msgid "Enter the approver of the message"
+msgstr "Inserisci il revisore dell'articolo"
+
+msgid "Enter the author of the message"
+msgstr "Inserisci l'autore dell'articolo"
+
+msgid "Enter the end date of the message"
+msgstr "Inserisci la data finale dell'articolo"
+
+msgid "Enter the image upload 1 of the message"
+msgstr "Seleziona la prima immagine da caricare"
+
+msgid "Enter the image upload 2 of the message"
+msgstr "Seleziona la seconda immagine da caricare"
+
+msgid "Enter the image upload 3 of the message"
+msgstr "Seleziona la terza immagine da caricare"
+
+msgid "Enter the image upload 4 of the message"
+msgstr "Seleziona la quarta immagine da caricare"
+
+msgid "Enter the main text of the message"
+msgstr "Inserisci il corpo dell'articolo"
+
+msgid "Enter the max size"
+msgstr "Inserisci la lunghezza massima"
+
+msgid "Enter the message entries per page."
+msgstr "Inserisci  il numero di elementi per ogni pagina."
+
+msgid "Enter the notes of the message"
+msgstr "Inserisci una note"
+
+msgid "Enter the shrink height"
+msgstr "Inserisci  l'altezza dell'immagine ridimensionata"
+
+msgid "Enter the shrink width"
+msgstr "Inserisci la larghezza dell'immagine ridimensionata"
+
+msgid "Enter the start date of the message"
+msgstr "Inserisci la data di pubblicazione dell'articolo"
+
+msgid "Enter the start text of the message"
+msgstr "Inserisci  il cappello dell'articolo"
+
+msgid "Enter the thumbnail height display"
+msgstr "Inserisci  l'altezza delle anteprime nella pagina dell'articolo"
+
+msgid "Enter the thumbnail height edit"
+msgstr "Inserisci l'altezza delle anteprime in fase di modifica"
+
+msgid "Enter the thumbnail height view"
+msgstr "Inserisci l'altezza delle anteprime nell'elenco"
+
+msgid "Enter the thumbnail width display"
+msgstr "Inserisci la larghezza delle anteprime nella pagina dell'articolo"
+
+msgid "Enter the thumbnail width edit"
+msgstr "Inserisci la larghezza delle anteprime in fase di modifica"
+
+msgid "Enter the thumbnail width view"
+msgstr "Inserisci la larghezza delle anteprime nell'indice"
+
+msgid "Enter the title of the message"
+msgstr "Inserisci il titolo dell'articolo"
+
+msgid "Enter the weight of the message."
+msgstr "Inserisci il peso dell'articolo."
+
+msgid "Entry to display"
+msgstr "Voce visualizzata"
+
+msgid "Error! Could not create a category registry for the %entity% entity."
+msgstr "Errore! Impossibile creare una categoria per l'entità% entity%."
+
+msgid "Error! Could not determine workflow actions."
+msgstr "Errore! Impossibile determinare le azioni di workflow."
+
+msgid "Error! Creation attempt failed."
+msgstr "Errore! Tentativo di creazione non riuscito."
+
+msgid "Error! Deletion attempt failed."
+msgstr "Errore! Tentativo di cancellazione non riuscito."
+
+msgid "Error! Invalid object type received."
+msgstr "Errore! Ricevuto un tipo di oggetto non valido ."
+
+msgid "Error! It is not allowed to delete this message."
+msgstr "Errore! Non si può cancellare questa notizia."
+
+msgid "Error! This file is too big."
+msgstr "Errore! Il file è troppo grande."
+
+msgid "Error! This file type is not allowed. Please choose another file format."
+msgstr "Errore! Questo tipo di file non è consentito. Scegli un altro formato."
+
+msgid "Error! This file type seems not to be a valid image."
+msgstr "Errore! Questo tipo di file non sembra essere un'immagine valida."
+
+msgid "Error! Update attempt failed."
+msgstr "Errore! Tentativo di aggiornamento non riuscito."
+
+msgid "Error: Invalid editor context given for external controller action."
+msgstr "Errore! Contesto dell'editor non valido per un controller esterno."
+
+msgid "Error: invalid input."
+msgstr "Errore: dato non valido."
+
+msgid "Errors"
+msgstr "Errori"
+
+msgid "Example"
+msgstr "Esempio"
+
+msgid "Fields"
+msgstr "Campi"
+
+msgid "Filter"
+msgstr "Filtro"
+
+msgid "Filter (expert option)"
+msgstr "Filtro (Opzioni per esperti)"
+
+msgid "Filter data by locale"
+msgstr "Filtra i dati con la voce"
+
+msgid "For example: 4000 (byte), 100k (kilobyte) and 1M (megabyte)."
+msgstr "Per esempio: 4000 (byte), 100k (kilobyte) o 1M (megabyte)."
+
+msgid "Frontend"
+msgstr "Frontend"
+
+msgid "Further properties"
+msgstr "Altre proprietà"
+
+msgid "GB"
+msgstr "GB"
+
+msgid "General settings"
+msgstr "Impostazioni generali"
+
+msgid "Hello %recipient%"
+msgstr "Ciao, %recipient%"
+
+msgid "Here you can assign moderation groups for enhanced workflow actions."
+msgstr "Qui puoi assegnare gruppi di moderazione ad azioni migliorate di wokflow."
+
+msgid "Here you can change general News settings."
+msgstr "Qui puoi cambiare le impostazioni generali delle notizie."
+
+msgid "Here you can choose a custom creation date"
+msgstr "Qui puoi scegliere una data di creazione personalizzata"
+
+msgid "Here you can choose a user which will be set as creator"
+msgstr "Qui puoi indicare l'utente autore della notizia"
+
+msgid "Here you can configure parameters for list views."
+msgstr "Qui puoi configurare i parametri per la visualizzazione degli elenchi."
+
+msgid "Here you can customise the picture upload behaviour."
+msgstr "Qui puoi modificare il comportamento del caricamento delle immagini."
+
+msgid "Here you can inspect and amend the existing workflows."
+msgstr "Qui puoi vedere e modificare i workflow esistenti."
+
+msgid "Hide content temporarily."
+msgstr "Nascondi temporaneamente il contenuto."
+
+msgid "Hooks"
+msgstr "Hook"
+
+msgid "ID of message"
+msgstr "ID dell'articolo"
+
+msgid "If you change this please save the block once to reload the parameters below."
+msgstr "Se cambi questo valore, salva il blocco una volta per ricaricare i parametri che seguono."
+
+msgid "Image"
+msgstr "Immagini"
+
+msgid "Image field"
+msgstr "Campo dell'immagine"
+
+msgid "Image float on display page"
+msgstr "Posizione dell'immagine nella pagina dell'articolo"
+
+msgid "Image float on the article display page"
+msgstr "Posizione dell'immagine nella pagina dell'articolo"
+
+msgid "Image float on the view page"
+msgstr "Posizione dell'immagine nell'elenco degli articoli"
+
+msgid "Image float on view page"
+msgstr "Posizione dell'immagine nell'elenco degli articoli"
+
+msgid "Image settings for messages image upload 1"
+msgstr "Impostazioni per la 1.a immagine dell'articolo"
+
+msgid "Image settings for messages image upload 2"
+msgstr "Impostazioni per la 2.a immagine dell'articolo"
+
+msgid "Image settings for messages image upload 3"
+msgstr "Impostazioni per la 3.a immagine dell'articolo"
+
+msgid "Image settings for messages image upload 4"
+msgstr "Impostazioni per la 4.a immagine dell'articolo"
+
+msgid "Image upload 1"
+msgstr "Caricamento della prima immagine"
+
+msgid "Image upload 2"
+msgstr "Caricamento della seconda immagine"
+
+msgid "Image upload 3"
+msgstr "Caricamento della terza immagine"
+
+msgid "Image upload 4"
+msgstr "Caricamento della quarta immagine"
+
+msgid "Image with absolute url to the message"
+msgstr "Immagine con link assoluto all'articolo"
+
+msgid "Image with relative link to the message"
+msgstr "Immagine con link relativo all'articolo"
+
+msgid "Images"
+msgstr "Immagini"
+
+msgid "Initial"
+msgstr "Iniziale"
+
+msgid "Inset"
+msgstr "Inserimento"
+
+msgid "Integration"
+msgstr "Integrazione"
+
+msgid "Invalid object type received."
+msgstr "Ricevuto un oggetto di tipo non valido."
+
+msgid "Invalid user field name received."
+msgstr "Ricevuto un nome di campo utente non valido."
+
+msgid "Invalid user identifier received."
+msgstr "Ricevuto un identificativo dell'utente non valido."
+
+msgid "It's new state is: %state%"
+msgstr "Il suo nuovo stato è: %state%"
+
+msgid "KB"
+msgstr "KB"
+
+msgid "Last update"
+msgstr "Ultimo aggiornamento"
+
+msgid "Latest messages"
+msgstr "Ultime notizie"
+
+msgid "Left"
+msgstr "Sinistra"
+
+msgid "Link own messages on account page"
+msgstr "Link ai tuoi articoli nella tua pagina utente"
+
+msgid "Link to the message:"
+msgstr "Link all'articolo:"
+
+msgid "Link to your message:"
+msgstr "Link al tuo articolo:"
+
+msgid "List views"
+msgstr "Elenco"
+
+msgid "MB"
+msgstr "MB"
+
+msgid "MUNewsModule detail view"
+msgstr "Vista di dettaglio di del modulo News"
+
+msgid "MUNewsModule items"
+msgstr "Elementi del modulo News"
+
+msgid "MUNewsModule list view"
+msgstr "Visualizzazione elenco del modulo News"
+
+msgid "Main text"
+msgstr "Testo principale"
+
+msgid "Make content available again."
+msgstr "Rendi il contenuto di nuovo disponibile."
+
+msgid "Manage settings for this application"
+msgstr "Gestisci le impostazioni per questa applicazione"
+
+msgid "Max size"
+msgstr "Dimensione massima"
+
+msgid "Message"
+msgstr "Notizia"
+
+msgid "Message entries per page"
+msgstr "Numero di articoli per pagina"
+
+msgid "Message filter hooks subscriber"
+msgstr "Filter hooks subscriber degli articoli"
+
+msgid "Message form aware subscriber"
+msgstr "Form aware subscriber degli articoli"
+
+msgid "Message language"
+msgstr "Lingua dell'articolo"
+
+msgid "Message ui hooks subscriber"
+msgstr "UI  hooks subscriber degli articoli"
+
+msgid "Message with id %id% could not be found"
+msgstr "L'articolo con id %s non può essere trovata"
+
+msgid "Messages"
+msgstr "Articoli"
+
+msgid "Messages image upload 1"
+msgstr "Prima immagine"
+
+msgid "Messages image upload 2"
+msgstr "Seconda immagine"
+
+msgid "Messages image upload 3"
+msgstr "Terza immagine"
+
+msgid "Messages image upload 4"
+msgstr "Quarta immagine"
+
+msgid "Messages list"
+msgstr "Elenco degli articoli"
+
+msgid "Messages pending approval"
+msgstr "Approvazione degli articoli in attesa"
+
+msgid "Moderation"
+msgstr "Moderazione"
+
+msgid "Moderation group for messages"
+msgstr "Gruppo dei moderatori delle notizie"
+
+msgid "Moderation options"
+msgstr "Opzioni di moderazione"
+
+msgid "Module \"%moduleName%\" is not available."
+msgstr "Il modulo \"%moduleName%\" non è disponibile."
+
+msgid "Move content into the archive."
+msgstr "Sposta il contenuto nell'archivio."
+
+msgid "Move content out of the archive."
+msgstr "Togli il contenuto dall'archivio."
+
+msgid "My messages"
+msgstr "I miei articoli"
+
+msgid "Needs to be located in the \"External/YourEntity/\" directory."
+msgstr "Dev'essere posto nella cartella \"External/YourEntity/\"."
+
+msgid "New content has been submitted"
+msgstr "E' stato inviato un nuovo contenuto"
+
+msgid "Newest"
+msgstr "Più recente"
+
+msgid "News Backend"
+msgstr "News Backend"
+
+msgid "No"
+msgstr "No"
+
+msgid "No correct needle id given."
+msgstr "Non è stata fornita una corretta neddle id."
+
+msgid "No end date"
+msgstr "Nessuna data finale"
+
+msgid "No entries found."
+msgstr "Nessun elemento trovato."
+
+msgid "No item selected."
+msgstr "Nessun elemento selezionato."
+
+msgid "No messages found."
+msgstr "Nessun articolo trovato."
+
+msgid "No other articles found."
+msgstr "Nessun altro articolo trovato."
+
+msgid "No such item found."
+msgstr "Impossibile trovare la voce corrispondente."
+
+msgid "No such item."
+msgstr "Nessun elemento corrispondente."
+
+msgid "None"
+msgstr "Nessuno"
+
+msgid "Note: this value must not exceed %amount% characters."
+msgstr "Nota: questo testo non deve superare %amount% caratteri."
+
+msgid "Notes"
+msgstr "NoteHinweise"
+
+msgid "OK"
+msgstr "Ok"
+
+msgid "Object type"
+msgstr "Tipo di oggetto"
+
+msgid "One message is waiting for approval.|%amount% messages are waiting for approval."
+msgstr "Un messaggio è in attesa di approvazione.|%amont% messaggi sono in attesa di approvazione."
+
+msgid "Only digits are allowed."
+msgstr "Sono permessi solo numeri."
+
+msgid "Only images"
+msgstr "Solo immagini"
+
+msgid "Only item titles"
+msgstr "Solo titoli"
+
+msgid "Open file"
+msgstr "Apri il file"
+
+msgid "Open preview page"
+msgstr "Apri la pagina di anteprima"
+
+msgid "Operation cancelled."
+msgstr "Operazione annullata."
+
+msgid "Option A"
+msgstr "Opzione A"
+
+msgid "Outbound"
+msgstr "In uscita"
+
+msgid "Page size"
+msgstr "Dimensione della pagina"
+
+msgid "Paste as"
+msgstr "Incolla come"
+
+msgid "Preview"
+msgstr "Anteprima"
+
+msgid "Publish"
+msgstr "Pubblica"
+
+msgid "Quick navigation"
+msgstr "Navigazione veloce"
+
+msgid "Random"
+msgstr "Casuale"
+
+msgid "Read more"
+msgstr "Segue..."
+
+msgid "Related articles"
+msgstr "Articoli correlati"
+
+msgid "Relative link to the image"
+msgstr "Link relativo all'immagine"
+
+msgid "Relative link to the message"
+msgstr "Link relativo all'articolo"
+
+msgid "Reset"
+msgstr "Indietro"
+
+msgid "Reset to empty value"
+msgstr "Reimposta al valore vuoto"
+
+msgid "Reuse"
+msgstr "Riuso"
+
+msgid "Reuse for new message"
+msgstr "Riusa per una nuova notizia"
+
+msgid "Right"
+msgstr "Destra"
+
+msgid "Search"
+msgstr "Cerca"
+
+msgid "Search and select message"
+msgstr "Cerca e seleziona una notizia"
+
+msgid "Search for"
+msgstr "Cerca"
+
+msgid "Send private message to %userName%"
+msgstr "Invia un messaggio privato a %userName%"
+
+msgid "Settings"
+msgstr "Impostazioni"
+
+msgid "Show all entries"
+msgstr "Mostra tutti gli elementi"
+
+msgid "Show author"
+msgstr "Mostra l'autore"
+
+msgid "Show date"
+msgstr "Mostra la data"
+
+msgid "Shows all items except these which are approved"
+msgstr "Mostra tutti gli elementi eccetto quelli approvati"
+
+msgid "Shows all items except these which are archived"
+msgstr "Mostra tutti gli elementi eccetto quelli archiviati"
+
+msgid "Shows all items except these which are suspended"
+msgstr "Mostra tutti gli elementi eccetto quelli in sospeso"
+
+msgid "Shows all items except these which are waiting"
+msgstr "Mostra tutti gli elementi eccetto quelli in attesa"
+
+msgid "Shrink height message image upload 1"
+msgstr "Altezza ridotta della prima immagine dell'articolo"
+
+msgid "Shrink height message image upload 2"
+msgstr "Altezza ridotta della seconda immagine dell'articolo"
+
+msgid "Shrink height message image upload 3"
+msgstr "Altezza ridotta della terza immagine dell'articolo"
+
+msgid "Shrink height message image upload 4"
+msgstr "Altezza ridotta della quarta immagine dell'articolo"
+
+msgid "Shrink width message image upload 1"
+msgstr "Larghezza ridotta della prima immagine dell'articolo"
+
+msgid "Shrink width message image upload 2"
+msgstr "Larghezza ridotta della seconda immagine dell'articolo"
+
+msgid "Shrink width message image upload 3"
+msgstr "Larghezza ridotta della terza immagine dell'articolo"
+
+msgid "Shrink width message image upload 4"
+msgstr "Larghezza ridotta della quarta immagine dell'articolo"
+
+msgid "Sorry, but an error occured during the %action% action."
+msgstr "Si è verificato un errore durante l'azione %action%."
+
+msgid "Sorry, but an error occured during the %action% action. Please apply the changes again!"
+msgstr "Si è verificato un errore durante l'azione %action%. Per favore, applica nuovamente le modifiche!"
+
+msgid "Sorry, but you can not create the message yet as other items are required which must be created before!"
+msgstr "Non puoi ancora creare la notizia perché sono richiesti altri elementi che devono essere creati prima!"
+
+msgid "Sort by"
+msgstr "Ordinamento per"
+
+msgid "Sort by %s"
+msgstr "Ordinamento per %s"
+
+msgid "Sort direction"
+msgstr "Direzione dell'ordinamento"
+
+msgid "Sorting"
+msgstr "Ordinamento"
+
+msgid "Start date"
+msgstr "Data di pubblicazione"
+
+msgid "Start text"
+msgstr "Testo introduttivo"
+
+msgid "State"
+msgstr "Stato"
+
+msgid "Submit"
+msgstr "Invia"
+
+msgid "Submit and approve"
+msgstr "Invia e approva"
+
+msgid "Submit and repeat"
+msgstr "Invia e ripeti"
+
+msgid "Suspended"
+msgstr "Sospeso"
+
+msgid "Switch to administration area."
+msgstr "Passa all'area di amministrazione."
+
+msgid "Switch to user area."
+msgstr "Passa all'area utente."
+
+msgid "Template"
+msgstr "Template"
+
+msgid "The amount of messages shown per page"
+msgstr "Numero di notizie per pagina"
+
+msgid "The cache directory \"%directory%\" does not exist. Please create it and make it writable for the webserver."
+msgstr "La cartella della cache \"%directory%\" non esiste. Creala e rendila scrivibile per il webserver."
+
+msgid "The display pdf link option"
+msgstr "Opzione per visualizzare il collegamento PDF"
+
+msgid "The enable attribution option"
+msgstr "Opzione per abilitare l'attribuzione"
+
+msgid "The enable categorization option"
+msgstr "Opzione per abilitare la categorizzazione"
+
+msgid "The enable more messages in category option"
+msgstr "Opzione per mostrare altri messaggi della stessa categoria"
+
+msgid "The enable multi language option"
+msgstr "Opzione per abilitare la gestione delle lingue"
+
+msgid "The enable picture upload option"
+msgstr "Opzione per abilitare il caricamento di immagini"
+
+msgid "The enable shrinking option"
+msgstr "Opzione per abilitare la riduzione delle immagini"
+
+msgid "The filter data by locale option"
+msgstr "Opzione per filtrare i dati in modo personalizzato"
+
+msgid "The link own messages on account page option"
+msgstr "Opzione per mostrare nella pagina utente il link alle proprie notizie"
+
+msgid "The maximum amount of items to be shown."
+msgstr "Massimo numero di elementi da mostrare."
+
+msgid "The maximum image height in pixels."
+msgstr "Altezza massima dell'immagine in pixel."
+
+msgid "The maximum image width in pixels."
+msgstr "Larghezza massima dell'immagine in pixel."
+
+msgid "The setting has been successfully changed."
+msgstr "Le impostazioni sono state aggiornate."
+
+msgid "The show author option"
+msgstr "Opzione per mostrare l'autore"
+
+msgid "The show date option"
+msgstr "Opzione per mostrare la data"
+
+msgid "The upload directories at \"%path%\" can be removed manually."
+msgstr "La cartella di upload %path% può essere rimossa manualmente."
+
+msgid "The upload directory \"%path%\" does not exist and could not be created. Try to create it yourself and make sure that this folder is accessible via the web and writable by the webserver."
+msgstr "La cartella di upload %path% non esiste e non può essere create. Prova a crearla manualmente e assicurati che sia accessibile via web e scrivibile dal web server."
+
+msgid "The value \"%value%\" is not allowed for the \"%property%\" property."
+msgstr "Il valore \"%value%\" non è permesso per la proprietà \"%property%\"."
+
+msgid "These options allow you to configure integration aspects."
+msgstr "Queste opzioni permettono la configurazione degli aspetti di integrazione."
+
+msgid "These remarks (like a reason for deny) are not stored, but added to any notification emails send to the creator."
+msgstr "Queste note (per esempio, il motivo del rifiuto) non sono memorizzate, ma aggiunte alle notifiche via email inviate all'autore."
+
+msgid "These remarks (like questions about conformance) are not stored, but added to any notification emails send to our moderators."
+msgstr "Queste note (per esempio, domande sulla condormità) non sono memorizzate, ma aggiunte alle notifiche via email inviate all'autore."
+
+msgid "This is an optional filter."
+msgstr "Questo è un filtro facoltativo."
+
+msgid "This mail has been sent automatically by %siteName%."
+msgstr "Questa email è stata inviata automaticamente da %siteName%."
+
+msgid "This section allows you to specify category-related options."
+msgstr "Questa sezione permette di configurare le opzioni sulle categorie."
+
+msgid "This setting allows to enable the display of author informations within an article."
+msgstr "Queste impostazioni permettono di mostrare in un articolo le informazioni sull'autore ."
+
+msgid "This setting allows to enable the display of date informations within an article."
+msgstr "Queste impostazioni permettono di mostrare in un articolo le informazioni sulla data."
+
+msgid "This setting is disabled. Click here to enable it."
+msgstr "Questa impostazione è disabilitata. Fai click qui per abilitarla."
+
+msgid "This setting is enabled. Click here to disable it."
+msgstr "Questa impostazione è abilitata. Fai click qui per disabilitarla."
+
+msgid "Thumbnail height message image upload 1 display"
+msgstr "Altezza della miniatura della prima immagine nella pagina dell'articolo"
+
+msgid "Thumbnail height message image upload 1 edit"
+msgstr "Altezza della miniatura della prima immagine nella pagina di modifica"
+
+msgid "Thumbnail height message image upload 1 view"
+msgstr "Altezza della miniatura della prima immagine nell'elenco"
+
+msgid "Thumbnail height message image upload 2 display"
+msgstr "Altezza della miniatura della seconda  immagine nella pagina dell'articolo"
+
+msgid "Thumbnail height message image upload 2 edit"
+msgstr "Altezza della miniatura della seconda immagine nella pagina di modifica"
+
+msgid "Thumbnail height message image upload 2 view"
+msgstr "Altezza della miniatura della seconda immagine nell'elenco"
+
+msgid "Thumbnail height message image upload 3 display"
+msgstr "Altezza della miniatura della terza immagine nella pagina dell'articolo"
+
+msgid "Thumbnail height message image upload 3 edit"
+msgstr "Altezza della miniatura della terza immagine nella pagina di modifica"
+
+msgid "Thumbnail height message image upload 3 view"
+msgstr "Altezza della miniatura della terza immagine nell'elenco"
+
+msgid "Thumbnail height message image upload 4 display"
+msgstr "Altezza della miniatura della quarta immagine nella pagina dell'articolo"
+
+msgid "Thumbnail height message image upload 4 edit"
+msgstr "Altezza della miniatura della quarta immagine nella pagina di modifica"
+
+msgid "Thumbnail height message image upload 4 view"
+msgstr "Altezza della miniatura della quarta immagine nell'elenco"
+
+msgid "Thumbnail height on display pages in pixels."
+msgstr "Altezza della miniatura nella pagina dell'articolo, in pixel."
+
+msgid "Thumbnail height on edit pages in pixels."
+msgstr "Altezza della miniatura nella pagina di modifica, in pixel."
+
+msgid "Thumbnail height on view pages in pixels."
+msgstr "Altezza della miniatura nella pagina della panoramica, in pixel."
+
+msgid "Thumbnail mode (inset or outbound)."
+msgstr "Modalità delle miniature (interne o esterne)."
+
+msgid "Thumbnail mode message image upload 1"
+msgstr "Modalità della miniatura 1"
+
+msgid "Thumbnail mode message image upload 2"
+msgstr "Modalità della miniatura 2"
+
+msgid "Thumbnail mode message image upload 3"
+msgstr "Modalità della miniatura 3"
+
+msgid "Thumbnail mode message image upload 4"
+msgstr "Modalità della miniatura 4"
+
+msgid "Thumbnail width message image upload 1 display"
+msgstr "Larghezza della miniatura della prima immagine nella pagina dell'articolo"
+
+msgid "Thumbnail width message image upload 1 edit"
+msgstr "Larghezza della miniatura della prima immagine nella pagina di modifica"
+
+msgid "Thumbnail width message image upload 1 view"
+msgstr "Larghezza della miniatura della prima immagine nell'elenco"
+
+msgid "Thumbnail width message image upload 2 display"
+msgstr "Larghezza della miniatura della seconda  immagine nella pagina dell'articolo"
+
+msgid "Thumbnail width message image upload 2 edit"
+msgstr "Larghezza della miniatura della seconda immagine nella pagina di modifica"
+
+msgid "Thumbnail width message image upload 2 view"
+msgstr "Larghezza della miniatura della seconda immagine nell'elenco"
+
+msgid "Thumbnail width message image upload 3 display"
+msgstr "Larghezza della miniatura della terza immagine nella pagina dell'articolo"
+
+msgid "Thumbnail width message image upload 3 edit"
+msgstr "Larghezza della miniatura della terza immagine nella pagina di modifica"
+
+msgid "Thumbnail width message image upload 3 view"
+msgstr "Larghezza della miniatura della terza immagine nell'elenco"
+
+msgid "Thumbnail width message image upload 4 display"
+msgstr "Larghezza della miniatura della quarta immagine nella pagina dell'articolo"
+
+msgid "Thumbnail width message image upload 4 edit"
+msgstr "Larghezza della miniatura della terza immagine nella pagina di modifica"
+
+msgid "Thumbnail width message image upload 4 view"
+msgstr "Larghezza della miniatura della quarta immagine nell'elenco"
+
+msgid "Thumbnail width on display pages in pixels."
+msgstr "Larghezza della miniatura nella pagina dell'articolo."
+
+msgid "Thumbnail width on edit pages in pixels."
+msgstr "Larghezza della miniatura nella pagina di modifica."
+
+msgid "Thumbnail width on view pages in pixels."
+msgstr "Larghezza della miniatura nell'elenco."
+
+msgid "Title"
+msgstr "Titolo"
+
+msgid "Try another image or make the file size smaller than "
+msgstr "Prova con un'altra immagine o riduci questa a meno di "
+
+msgid "Unarchive"
+msgstr "Estrai dall'archivio"
+
+msgid "Unpublish"
+msgstr "Annulla la pubblicazione"
+
+msgid "Update"
+msgstr "Aggiorna"
+
+msgid "Update configuration"
+msgstr "Aggiorna la configurazione"
+
+msgid "Update content and approve for immediate publishing."
+msgstr "Aggiorna il contenuto e approvalo per la pubblicazione immediata."
+
+msgid "Update date"
+msgstr "Aggiorna la data"
+
+msgid "Updated by %user"
+msgstr "Aggiornato da %user"
+
+msgid "Updated by %user on %date"
+msgstr "Aggiornato da %user il %date"
+
+msgid "Updated on %date"
+msgstr "Aggiornato il %date"
+
+msgid "Updater"
+msgstr "Revisore"
+
+msgid "Upload settings"
+msgstr "Impostazioni di upload"
+
+msgid "Used to determine moderator user accounts for sending email notifications."
+msgstr "Usato per determinare le utenze del moderatore per l'invio di mail."
+
+msgid "View detail page"
+msgstr "Vedi l'articolo"
+
+msgid "View messages"
+msgstr "Vedi le notizie"
+
+msgid "Waiting"
+msgstr "In attesa"
+
+msgid "Warning! The upload directory at \"%path%\" exists but is not writable by the webserver."
+msgstr "Attenzione! La cartella di upload \"%path%\" esiste, ma non è scrivibile dal webserver."
+
+msgid "Weight"
+msgstr "Peso"
+
+msgid "Welcome to the message section of the News application."
+msgstr "Benvenuto nella sezione dei messaggi del blocco News."
+
+msgid "When displaying an article, a number of additional article titles in the same category can be shown. To show the additional article titles for every article set the value above to a number larger than 0. When the value is set to 0, the number of additional article titles can be set per article by means of the article attribute \\\"morearticlesincat\\\". You need to enable \\\"article attributes\\\" yourself. When the setting above or the article attribute is set to 0, no titles will be extracted from the database."
+msgstr "Quando si mostra un articolo, si può far vedere anche un certo numero di titoli di articoli nella stessa categoria. Per mostrare questi titoli addizionali imposta il valore di cui sopra a un numero maggiore di 0. Quando il valore è impostato a ', il numero dei titoli addizionali può essere impostato in ogni articolo per mezzo dell'attribyto \\\"morearticlesincat\\\". Devi abilitare \\\"attributi dell'articolo\\\" tu stesso. Quando l'impostazione di cui sopra o l'attributo dell'articolo sono impostati a 0, non sarà mostrato nessun titolo aggiuntivo."
+
+msgid "Whether automatically filter data in the frontend based on the current locale or not"
+msgstr "Quando filtrare automaticamente i dati nel frontend in base alle impostazioni geografiche o meno"
+
+msgid "Whether to add a link to messages of the current user on his account page"
+msgstr "Quando aggiungere un link al messaggio per l'utente nella sua pagina personale"
+
+msgid "Whether to enable shrinking huge images to maximum dimensions. Stores downscaled version of the original image."
+msgstr "Quando abilitare il ridimensionamento delle immagini al massimo consentito. Memorizza versioni ridotte dell'immagine originale."
+
+msgid "Which sections are supported in the Finder component (used by Scribite plug-ins)."
+msgstr "Sezioni supportate dal componente Finder (usato dal plugin Scribite)."
+
+msgid "With description"
+msgstr "Con la descrizione"
+
+msgid "With selected messages"
+msgstr "Con i messaggi selezionati"
+
+msgid "Workflow state"
+msgstr "Stato del workflow"
+
+msgid "Workflows"
+msgstr "Workflow"
+
+msgid "Yes"
+msgstr "Sì"
+
+msgid "You can customise several display-oriented aspects of the articles."
+msgstr "Puoi personalizzare vari aspetti dell'articolo in rapporto al modo in cui sarà mostrato."
+
+msgid "You can switch between different image fields"
+msgstr "Puoi scorrere tra i diversi campi immagine"
+
+msgid "Your message \"%entity%\" has been changed."
+msgstr "Il tuo articolo \"%entity%\" è stato modificato."
+
+msgid "Your submission has been deleted"
+msgstr "La tua richiesta è stata cancellata"
+
+msgid "Your submission has been updated"
+msgstr "La tua richiesta è stata aggiornata"
+
+msgid "allow comments ?"
+msgstr "permettere i commenti?"
+
+msgid "display on index ?"
+msgstr "visualizzare nell'indice ?"
+
+msgid "messages"
+msgstr "messaggi"
+
+msgid "no end date ?"
+msgstr "nessuna data finale?"
+
+msgid "pixels"
+msgstr "pixel"
