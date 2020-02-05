@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: Paolo Morandotti <pmoitaly@yahoo.it>\n"
 "Language-Team: Paolo Morandotti <info@morandotti.it>\n"
 "MIME-Version: 1.0\n"
-"X-Generator: Poedit 2.2.3\n"
+"X-Generator: Poedit 2.2.4\n"
 
 msgid " (mandatory) - The user email. If the validation method is based on the user email this value must be unique."
 msgstr " (obbligatorio) - L'email dell'utente. Se il metodo di convalida si basa sull'e-mail dell'utente, questo valore deve essere univoco."
@@ -565,7 +565,7 @@ msgid "Block placements"
 msgstr "Posizioni del blocco"
 
 msgid "Block positions list"
-msgstr "Lista delle posizioni del blocco"
+msgstr "Lista delle posizioni dei blocchi"
 
 msgid "Block saved!"
 msgstr "Blocco salvato!"
@@ -1096,7 +1096,7 @@ msgid "Default category for newly-added modules"
 msgstr "Categoria predefinita per i moduli appena aggiunti"
 
 msgid "Default language to use for this site"
-msgstr "Lingua predefinita da usare per questo sito"
+msgstr "Lingua predefinita del sito"
 
 msgid "Default meta description"
 msgstr "Meta description predefinita"
@@ -1270,7 +1270,7 @@ msgid "Do you really want to delete block '%title%'?"
 msgstr "Vuoi davvero eliminare il blocco '%title%'?"
 
 msgid "Do you really want to delete group '%s'?"
-msgstr "Vuoi davvero eliminare il gruppo '% s'?"
+msgstr "Vuoi davvero eliminare il gruppo '%s'?"
 
 msgid "Do you really want to delete module category '%s'?"
 msgstr "Vuoi davvero eliminare la categoria dei moduli '%s'?"
@@ -2028,7 +2028,7 @@ msgid "Find/Mail/Delete users"
 msgstr "Trova/Scrivi a/Elimina utenti"
 
 msgid "Finish"
-msgstr "Finire"
+msgstr "Fine"
 
 msgid "Fire install event"
 msgstr "Lancia l'evento installazione"
@@ -2584,7 +2584,7 @@ msgid "Language switcher"
 msgstr "Cambio della lingua"
 
 msgid "Language system"
-msgstr "Sistema delle lingue"
+msgstr "Gestione  delle lingue"
 
 msgid "Last checked"
 msgstr "Ultima verifica"
@@ -2726,7 +2726,7 @@ msgid "Mail sent!"
 msgstr "Email inviata!"
 
 msgid "Mail transport"
-msgstr "Mail transport"
+msgstr "Sistema email"
 
 msgid "Mail transport mechanisms SMTP and SENDMAIL were disabled because your PHP does not allow the \"proc_*\" function. Either you need to remove it from the \"disabled_functions\" directive in your \"php.ini\" file or recompile your PHP entirely. Afterwards restart your webserver."
 msgstr "I meccanismi di trasporto della posta SMTP e SENDMAIL sono stati disabilitati perché il tuo PHP non consente la funzione \"proc_ *\". Devi rimuoverlo dalla direttiva \"disabled_functions\" nel tuo file \"php.ini\", oppure ricompilare interamente il tuo PHP. Successivamente riavvia il tuo server web."
@@ -3755,7 +3755,7 @@ msgid "Request URI: %s"
 msgstr "URI della richiesta: %s"
 
 msgid "Require %sub% to change password at next login"
-msgstr "Richiedi %sub% per cambiare la password all'accesso successivo"
+msgstr "Chiedi a %sub% di cambiare la password all'accesso successivo"
 
 msgid "Required"
 msgstr "Obbligatorio"
@@ -3995,7 +3995,7 @@ msgid "Sending a password via e-mail is considered unsafe. It is recommended tha
 msgstr "L'invio di una password via e-mail è considerato non sicuro. Si consiglia di fornire la password all'utente utilizzando un metodo di comunicazione sicuro."
 
 msgid "Sendmail message transfer agent"
-msgstr "Agente di trasferimento dei messaggi di Sendmail "
+msgstr "Agente di trasferimento dei messaggi di Sendmail"
 
 msgid "Separate each domain with a comma."
 msgstr "Separa ogni dominio con una virgola."
@@ -4019,7 +4019,7 @@ msgid "Session Impact: %d"
 msgstr "Impatto della sessione: %d"
 
 msgid "Session are currently configured to use the filesystem. It is recommended that you change this to use the database. Click %here% to configure."
-msgstr "Le sessioni sono attualmente configurate per utilizzare il filesystem. Si consiglia di modificarlo per utilizzare il database. Fai clic su %here% per configurare."
+msgstr "Le sessioni sono configurate per usare il filesystem. Si consiglia di usare il database. Fai clic su %here% per modificare l'impostazione."
 
 msgid "Session cookie name"
 msgstr "Nome del cookie di sessione"
@@ -4328,7 +4328,7 @@ msgid "That entity does not exist!"
 msgstr "Questa entità non esiste!"
 
 msgid "The 'Settings' page contains three sections: 'General settings', 'Display settings' and 'Modules categorisation'. Each is covered below."
-msgstr "La pagina \"Impostazioni\" contiene tre sezioni: \"Impostazioni generali\", \"Impostazioni di visualizzazione\" e \"Categorizzazione dei moduli\". Ciascuno è coperto di seguito."
+msgstr "La pagina \"Impostazioni\" contiene tre sezioni: \"Impostazioni generali\", \"Impostazioni di visualizzazione\" e \"Categorizzazione dei moduli\". Ciascuna è spiegata di seguito."
 
 msgid "The Zikula recovery console tool (file 'zrc.php') is present in the site webroot, but must be removed before you can access the site admin panel."
 msgstr "Lo strumento della console di ripristino di Zikula (file 'zrc.php') è presente nella webroot del sito, ma deve essere rimosso prima di poter accedere al pannello di amministrazione del sito."
@@ -4694,10 +4694,8 @@ msgid ""
 "'Edit placements' (blocks) icon for that position or on the position name in the block list above.\n"
 "To delete a block position, click on the 'Delete' icon and confirm the action in the confirmation prompt that will display."
 msgstr ""
-"Questo è l'elenco delle posizioni dei blocco attualmente esistenti per le pagine del tuo sito.\n"
-"È possibile creare una nuova posizione di blocco facendo clic su \"Crea una posizione dei blocco\" nel menu. Per modificare le impostazioni per una posizione di blocco,\n"
-"fai clic sull'icona \"Modifica\" accanto a quella particolare posizione. Per riordinare i blocchi in una posizione di blocco, fai clic\n"
-"sull'icona \"Modifica la posizione dei blocchi\" per quella posizione o sul nome della posizione nell'elenco di blocchi sopra.\n"
+"Questo è l'elenco delle posizioni dei blocchi attualmente predisposte nelle pagine del tuo sito.\n"
+"È possibile creare una nuova posizione dei blocchi facendo clic su \"Crea una posizione dei blocco\" nel menu. Per modificare le impostazioni per una posizione dei blocchi, fai clic sull'icona \"Modifica\" accanto a quella particolare posizione. Per riordinare i blocchi in una posizione di blocco, fai click sull'icona \"Modifica la posizione dei blocchi\" per quella posizione o sul nome della posizione nell'elenco di blocchi sopra.\n"
 "Per eliminare una posizione di blocco, fai clic sull'icona \"Elimina\" e conferma l'azione nella richiesta di conferma che verrà visualizzata."
 
 msgid ""
@@ -4708,8 +4706,7 @@ msgid ""
 msgstr ""
 "Questo è l'elenco dei blocchi presenti nel tuo sistema; puoi usare il filtro per visualizzare solo alcuni blocchi.\n"
 "     L'ordine in cui i blocchi sono elencati qui non è necessariamente l'ordine in cui sono visualizzati nelle pagine del sito.\n"
-"     Per gestire l'ordine di visualizzazione dei blocchi fare clic sul nome della posizione in questa tabella o su \"Modifica la disposizione dei blocchi\"\n"
-"     nella tabella dell'elenco delle posizioni in basso."
+"     Per gestire l'ordine di visualizzazione dei blocchi fare clic sul nome della posizione in questa tabella o sull'icona  \"Modifica la disposizione dei blocchi\" nella Lista delle posizioni dei blocchi in basso."
 
 msgid "This link expires in %amountOfDays% days."
 msgstr "This link expires in %amountOfDays% days."
@@ -4718,7 +4715,7 @@ msgid "This only applies to legacy variable validation. The system itself has na
 msgstr "Questo vale solo per la convalida delle variabili legacy. Il sistema ha il supporto IDN nativo."
 
 msgid "This option enables you to disable the Security analyser's check to see if the Installer is present in your site's root directory. Preferably, you should leave the check enabled, as a security breach could easily occur if you omit to remove the Installer's components after completing installation."
-msgstr "Questa opzione consente di disabilitare il controllo dell'analizzatore di sicurezza per vedere se il programma di installazione è presente nella directory principale del sito. Preferibilmente, è meglio lasciare il controllo abilitato, poiché se si omette di rimuovere i componenti dell'Installatore dopo aver completato l'installazione una violazione della sicurezza potrebbe facilmente verificarsi."
+msgstr "Questa opzione consente di disabilitare il controllo dell'analizzatore di sicurezza per vedere se il programma di installazione è presente nella directory principale del sito. E' meglio lasciare il controllo abilitato poiché, se si omette di rimuovere i componenti dell'Installatore dopo aver completato l'installazione, potrebbe facilmente verificarsi una violazione della sicurezza."
 
 msgid "This page contains adult content"
 msgstr "Il contenuto di questa pagina è per i soli adulti"
